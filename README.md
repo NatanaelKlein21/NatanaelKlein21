@@ -1,14 +1,14 @@
 ### Hi there 👋 I'am Natanael Klein
 
 > Student Biomedical Informatics >
+
 > Intern Data Science >
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
@@ -44,13 +44,11 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <p align="center">
 <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="https://www.linkedin.com/in/natanaelklein/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@natanaelklein-blue?style=flat&logo=linkedin"></a>
+
 <a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-
-⭐️ From [@anandmainali](https://github.com/anandmainali)
 
 <!--
 **NatanaelKlein21/NatanaelKlein21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
