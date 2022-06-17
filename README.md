@@ -16,7 +16,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/natanaelklein/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@natanaelklein-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:natanael.klein@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-natanael.klein@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
