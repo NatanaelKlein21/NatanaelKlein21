@@ -1,7 +1,7 @@
 ### Hi there 👋 I'am Natanael Klein
 
 > Student Biomedical Informatics > 
-> Intern Data Science
+> Data Science
 
 ### Programming Languages 🌐
 
